@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset-"UTF-8">
-<title>ろくまる農園</title>
+<title>ろくまる</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
